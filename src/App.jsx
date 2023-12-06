@@ -7,7 +7,7 @@ const App = () => {
   return (
     <>
       <h1 className='text-2xl sm:text-3xl'>Redux Toolkit</h1>
-      {/* <AddTodo /> */}
+      <AddTodo />
       <Todos />
     </>
   )
